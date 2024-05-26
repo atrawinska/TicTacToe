@@ -1,0 +1,43 @@
+﻿Good day,
+this is the final implementation of my version of tic tac toe.
+I would like to write summary and conclusions comparing to the first part of the assignement.
+
+Differences:
+- I changes the idea of having a list of games and GameManager class. 
+While implementing the project I thought that I do not have clear intentions of how 
+to use it anymore. I decided that i did not need the manager class.
+- More controls, array of buttons, more enums, beacuse they seemed to me to ease the job.
+- I put the turn controlling to the form1 instead of game/game manager class.
+- Chnged the string override because of lack of additional text.
+- Time counter: System.Diagnostics - manipulating with Stopwatch.
+
+
+Process and Conclusions:
+
+At the beginning it was very hard to me to start the algorithm. Even though I have done it, 
+it still makes the job hrder the form-form or form-other class communication.
+Despite that I see a big difference in time-consumption or panic while comparing to assignement 3 r 4.
+
+I discovered some new usefull options: tooltip, messageBox's features, file managing,
+adding a logo, adding files to resources.
+
+It took me much time to figure out how logos/icons work. Eventually, I think it was very easy but 
+at that time I was chaning it everywhere where I could but it was not changing the icon in the
+screen's taskbar.
+
+Also, file managing caused a few problems for me, however I solved them quite quickly.
+Here, I am not sure how I should have managed the menu form and deleting the data from the file.
+I failed at doing it with Dialog result because it wanted to be closed steight after as I understood.
+So eventually I opened it in the menu form which I think might not be the best way.
+
+
+
+Thank you for the chance of making this game. I have expereimented with GUI quite more than usual 
+and revised material.I hope it is done well enough and works without any issues 
+( I tested it but I am never sure and it is easy to miss something).
+
+Have a nice day.
+Kind regards,
+Agnieszka Trawinska
+
+
