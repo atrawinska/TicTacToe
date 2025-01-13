@@ -70,6 +70,7 @@ namespace TicTacToe
             lbl_turn.Text = currentPlayer.ToString() + "'s turn!";
 
             ToolTipInnit();
+
        
 
 
