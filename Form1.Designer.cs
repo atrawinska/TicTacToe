@@ -233,14 +233,14 @@
             // menu_info
             // 
             menu_info.Name = "menu_info";
-            menu_info.Size = new Size(217, 34);
-            menu_info.Text = "Saved scores";
+            menu_info.Size = new Size(270, 34);
+            menu_info.Text = "Information";
             menu_info.Click += savedScoresToolStripMenuItem_Click;
             // 
             // menu_score
             // 
             menu_score.Name = "menu_score";
-            menu_score.Size = new Size(217, 34);
+            menu_score.Size = new Size(270, 34);
             menu_score.Text = "Score";
             menu_score.Click += menu_score_Click;
             // 
